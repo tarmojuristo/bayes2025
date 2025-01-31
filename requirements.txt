@@ -1,0 +1,29 @@
+# Base DS packages
+numpy
+scipy
+pandas
+
+# Jupyer IDE
+jupyter
+jupyterlab
+ipykernel
+
+# Plotting
+matplotlib
+plotnine
+altair
+
+# PyMC
+pymc
+arviz
+
+# Other samplers
+nutpie
+jaxlib
+numpyro
+
+# Progressbar
+tqdm
+
+# Streamlit
+streamlit
