@@ -1,6 +1,8 @@
 # Base DS packages
 numpy
 scipy
+sklearn
+statsmodels
 pandas
 
 # Jupyer IDE
@@ -15,6 +17,9 @@ altair
 
 # PyMC
 pymc
+bambi
+causalpy
+pymc-bart
 arviz
 
 # Other samplers
