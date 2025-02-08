@@ -1,21 +1,21 @@
-### Aine eesmärk:
+### Course objective:
 
-Anda ülevaade Bayesi statistika alustest ning nende praktilisest rakendusest. 
+To provide an overview of the principles of Bayesian statistics and their practical application. 
 
-### Aine sisu lühikirjeldus:
+### Short description:
 
-Bayesi mudelid leiavad aina laiemat rakendust nii teaduses kui ka praktiliste probleemide lahendamisel, kus on vaja teha põhjendatud otsuseid ja valikuid ebakindluse või piiratud informatsiooni olukorras. Kursus annab ülevaate ning fundamentaalsed praktilised oskused Bayesi mudelite formuleerimiseks, andmetega sobitamiseks ning tulemuste valideerimiseks ja interpreteerimiseks. Keskendume mõnevõrra vähem teoreetilistele nüanssidele ja pöörame enam tähelepanu praktiliste oskuste arendamisele — mis küll siiski eeldab ka teooria põhimõttelist mõistmist. Kursus põhineb olulisel määral iseseisval ettevalmistaval tööl (peamiselt toetume Richard McElreathi raamatule “Statistical Rethinking”), seminarides tegeleme väikestes gruppides praktiliste ülesannete lahendamisega, kasutades peamiselt Pythoni paketti PyMC. 
+Bayesian models are finding ever wider applications in science and in practical problem solving, where informed decisions and choices need to be made under uncertainty or limited information. The course provides an overview and fundamental practical skills for formulating Bayesian models, fitting them to data, and validating and interpreting results. The focus will be somewhat less on theoretical nuances and more on the development of practical skills - which, however, require a fundamental understanding of the theory. The course is based to a large extent on independent preparatory work (mainly based on Richard McElreath's book "Statistical Rethinking"), while in the seminars we will work in small groups on practical problems, mainly using the Python package PyMC. 
 
-### Õpitulemus:
+### Learning outcome:
 
-Kursuse edukalt läbinuna suudavad tudengid:
+On successful completion of the course, students will be able to:
 
-- mõista ning rakendada Bayesi statistika põhimõtteid eri tüüpi andmete analüüsimisel
-- mõista ning ise formuleerida Bayesi mudeleid ning töötada eeljaotuste ja simulatsioonidega
-- diagnoosida, võrrelda ja valideerida erinevaid Bayesi mudeleid
-- sobitada ka keerukamaid hierarhilisi mudeleid ning korrektselt interpreteerida nende tulemusi
+- Understand and apply the principles of Bayesian statistics to the analysis of different types of data.
+- Understand and formulate Bayesian models and work with prior distributions and simulations.
+- diagnose, compare and validate different Bayesian models
+- fit more complex hierarchical models and interpret their results correctly
 
-### Eeldused:
+### Prerequisites:
 
-- Põhiteadmised statistikast
-- Kursuse praktiline osa eeldab võimekust töötada Pythonis. Seda on võimalik omandada ka kursuse käigus — pakume selleks ka tuge ning abi — kuid sel puhul tuleb arvestada lisakoormusega.
+- Basic knowledge of statistics
+- The practical part of the course requires the ability to work in Python. This can also be acquired during the course - we offer support and assistance for this - but an additional workload should be expected.
