@@ -1,7 +1,7 @@
 # Base DS packages
 numpy
 scipy
-sklearn
+scikit-learn
 statsmodels
 pandas
 
