@@ -1,0 +1,224 @@
+match_id,date_time,home_team,away_team,home_score,away_score,margin,winner,home_q1,away_q1,home_q2,away_q2,home_q3,away_q3,home_q4,away_q4,round,home_q5,away_q5,total_points
+g_3_fBT5X2OG,2025-04-05,Rigas Zelli,BC Kalev/Cramo,97,83,14,Rigas Zelli,18,17,24,22,29,15,26,29,Semi-finals,,,180
+g_3_fNok1m14,2025-04-03,VEF Riga,BK Ogre,80,63,17,VEF Riga,24,13,20,27,14,14,22,9,Semi-finals,,,143
+g_3_6DDQJ5Q6,2025-04-02,BC Kalev/Cramo,Rigas Zelli,87,80,7,BC Kalev/Cramo,19,16,19,22,28,23,21,19,Semi-finals,,,167
+g_3_hhdogXiU,2025-03-30,VEF Riga,Ventspils,87,74,13,VEF Riga,23,17,24,26,22,16,18,15,Quarter-finals,,,161
+g_3_b5iwV433,2025-03-29,Rigas Zelli,Tartu Ulikool,78,73,5,Rigas Zelli,21,19,22,19,12,14,23,21,Quarter-finals,,,151
+g_3_t2EO4O46,2025-03-28,Ventspils,VEF Riga,85,78,7,Ventspils,22,17,21,22,22,18,20,21,Quarter-finals,,,163
+g_3_zmMrc3HU,2025-03-26,Tartu Ulikool,Rigas Zelli,92,84,8,Tartu Ulikool,23,21,29,29,16,17,24,17,Quarter-finals,,,176
+g_3_WfPR0oI5,2025-03-26,Valmiera Glass Via,BK Ogre,76,77,-1,BK Ogre,16,20,26,21,11,16,23,20,Quarter-finals,,,153
+g_3_IXIB4TIt,2025-03-25,BK Liepaja,BC Kalev/Cramo,81,82,-1,BC Kalev/Cramo,15,23,24,17,24,16,18,26,Quarter-finals,,,163
+g_3_YyBG6pzf,2025-03-25,VEF Riga,Ventspils,97,84,13,VEF Riga,20,28,31,18,21,20,25,18,Quarter-finals,,,181
+g_3_vLSZbPnI,2025-03-22,Rigas Zelli,Tartu Ulikool,86,58,28,Rigas Zelli,16,10,27,6,24,23,19,19,Quarter-finals,,,144
+g_3_AuyJ27mg,2025-03-22,BK Ogre,Valmiera Glass Via,83,75,8,BK Ogre,15,17,20,19,24,23,24,16,Quarter-finals,,,158
+g_3_v7m1pQXO,2025-03-21,BC Kalev/Cramo,BK Liepaja,86,76,10,BC Kalev/Cramo,27,18,15,21,20,17,24,20,Quarter-finals,,,162
+g_3_ALYUU512,2025-03-16,BC Kalev/Cramo,Keila Coolbet,86,56,30,BC Kalev/Cramo,17,13,15,22,23,9,31,12,Quarter-finals,,,142
+g_3_S68viV10,2025-03-16,Viimsi,VEF Riga,69,98,-29,VEF Riga,18,20,28,31,7,19,16,28,Quarter-finals,,,167
+g_3_0t6Fm7FG,2025-03-15,Rigas Zelli,BK Liepaja,90,80,10,Rigas Zelli,21,26,14,25,23,11,32,18,Quarter-finals,,,170
+g_3_MefOoopT,2025-03-15,Valmiera Glass Via,Parnu,102,79,23,Valmiera Glass Via,27,17,25,20,18,25,32,17,Quarter-finals,,,181
+g_3_bH9bikGi,2025-03-15,Latvijas Universitate,Tartu Ulikool,84,82,2,Latvijas Universitate,18,13,14,20,19,13,20,25,Quarter-finals,13,11,166
+g_3_KW5xPFDq,2025-03-15,Rapla,BK Ogre,76,84,-8,BK Ogre,20,18,19,24,16,12,21,30,Quarter-finals,,,160
+g_3_hp4pNgrd,2025-03-15,Tal Tech,Keila KK,101,88,13,Tal Tech,30,31,26,13,23,21,22,23,Quarter-finals,,,189
+g_3_fq37kTp4,2025-03-15,Ventspils,VEF Riga,84,89,-5,VEF Riga,25,23,10,14,24,16,15,21,Quarter-finals,10,15,173
+g_3_xC2DUyjM,2025-03-14,Keila Coolbet,Viimsi,75,72,3,Keila Coolbet,15,11,17,22,25,19,18,20,Quarter-finals,,,147
+g_3_nwttZ70N,2025-03-12,Latvijas Universitate,Rapla,70,91,-21,Rapla,18,27,10,18,21,22,21,24,Quarter-finals,,,161
+g_3_Uoa5WcL9,2025-03-12,Tartu Ulikool,Viimsi,84,81,3,Tartu Ulikool,17,22,24,12,24,22,19,25,Quarter-finals,,,165
+g_3_6NMCToOp,2025-03-12,Ventspils,BC Kalev/Cramo,85,93,-8,BC Kalev/Cramo,19,25,31,17,15,23,20,28,Quarter-finals,,,178
+g_3_8WAdYJjc,2025-03-12,Tal Tech,Valmiera Glass Via,92,84,8,Tal Tech,17,23,24,9,24,26,27,26,Quarter-finals,,,176
+g_3_EBSYzUVA,2025-03-11,BK Liepaja,Parnu,98,84,14,BK Liepaja,27,23,24,11,29,25,18,25,Quarter-finals,,,182
+g_3_SUx5fFS0,2025-03-11,VEF Riga,Keila KK,94,71,23,VEF Riga,23,6,30,25,24,18,17,22,Quarter-finals,,,165
+g_3_tQIAAGbj,2025-03-09,Keila Coolbet,Tal Tech,79,86,-7,Tal Tech,18,22,18,20,18,14,25,30,Quarter-finals,,,165
+g_3_pWzIvCWo,2025-03-08,Rigas Zelli,Keila KK,102,84,18,Rigas Zelli,27,28,21,15,34,28,20,13,Quarter-finals,,,186
+g_3_2snwTOEH,2025-03-08,BC Kalev/Cramo,Parnu,103,78,25,BC Kalev/Cramo,27,21,20,23,27,15,29,19,Quarter-finals,,,181
+g_3_4xJ9z0KU,2025-03-08,BK Ogre,Viimsi,93,80,13,BK Ogre,29,23,24,16,16,19,24,22,Quarter-finals,,,173
+g_3_UTmVUpp5,2025-03-08,Rapla,VEF Riga,71,86,-15,VEF Riga,19,28,15,15,17,23,20,20,Quarter-finals,,,157
+g_3_WOK1xMkI,2025-03-08,Latvijas Universitate,BK Liepaja,56,95,-39,BK Liepaja,13,25,10,25,17,28,16,17,Quarter-finals,,,151
+g_3_Y1fMW6Fh,2025-03-07,Tartu Ulikool,Ventspils,82,99,-17,Ventspils,22,35,12,30,20,23,28,11,Quarter-finals,,,181
+g_3_2BJAPwMc,2025-03-05,VEF Riga,BC Kalev/Cramo,85,96,-11,BC Kalev/Cramo,17,24,19,24,25,23,24,25,Quarter-finals,,,181
+g_3_QyiEYSpt,2025-03-05,Tal Tech,BK Ogre,72,70,2,Tal Tech,19,13,22,20,20,14,11,23,Quarter-finals,,,142
+g_3_42MxCQj5,2025-03-04,Keila KK,Rapla,63,86,-23,Rapla,16,16,20,19,12,34,15,17,Quarter-finals,,,149
+g_3_MNQ3EPaO,2025-03-04,Tartu Ulikool,Valmiera Glass Via,69,84,-15,Valmiera Glass Via,21,21,20,13,20,26,8,24,Quarter-finals,,,153
+g_3_xQRhvrL5,2025-03-04,Ventspils,Keila Coolbet,93,68,25,Ventspils,26,22,25,12,17,17,25,17,Quarter-finals,,,161
+g_3_z7SeGoVB,2025-03-02,Viimsi,BC Kalev/Cramo,85,98,-13,BC Kalev/Cramo,15,21,18,21,36,24,16,32,Quarter-finals,,,183
+g_3_n3yO1zUj,2025-03-01,Rigas Zelli,Ventspils,79,78,1,Rigas Zelli,17,19,22,19,17,18,23,22,Quarter-finals,,,157
+g_3_rmYTDnMh,2025-03-01,Keila KK,Latvijas Universitate,89,78,11,Keila KK,26,18,27,32,20,18,16,10,Quarter-finals,,,167
+g_3_UaOpt4jg,2025-03-01,BK Ogre,BK Liepaja,91,96,-5,BK Liepaja,23,23,19,21,21,20,18,17,Quarter-finals,10,15,187
+g_3_vuZnI70a,2025-03-01,Parnu,VEF Riga,83,96,-13,VEF Riga,17,32,19,24,24,17,23,23,Quarter-finals,,,179
+g_3_tAzi0ZvE,2025-02-28,BC Kalev/Cramo,Tal Tech,79,78,1,BC Kalev/Cramo,25,24,16,17,19,17,19,20,Quarter-finals,,,157
+g_3_6RzuKTVn,2025-02-28,Keila Coolbet,VEF Riga,80,89,-9,VEF Riga,28,30,17,21,11,21,24,17,Quarter-finals,,,169
+g_3_juGMF8it,2025-02-26,Keila KK,Tartu Ulikool,63,90,-27,Tartu Ulikool,13,22,21,25,9,14,20,29,Quarter-finals,,,153
+g_3_M32M1nGI,2025-02-26,Parnu,BK Ogre,57,92,-35,BK Ogre,17,19,11,23,10,23,19,27,Quarter-finals,,,149
+g_3_nsf8Pk8P,2025-02-26,Rapla,Keila Coolbet,87,83,4,Rapla,19,28,18,21,21,20,29,14,Quarter-finals,,,170
+g_3_8pzxrQLt,2025-02-26,Valmiera Glass Via,Rigas Zelli,68,91,-23,Rigas Zelli,17,25,24,20,14,17,13,29,Quarter-finals,,,159
+g_3_fk8kH0Bm,2025-02-22,Keila KK,Ventspils,71,77,-6,Ventspils,14,26,21,16,22,13,14,22,Quarter-finals,,,148
+g_3_r5JQz9ED,2025-02-16,Valmiera Glass Via,Latvijas Universitate,98,67,31,Valmiera Glass Via,23,20,28,18,22,17,25,12,Quarter-finals,,,165
+g_3_jk5HviFl,2025-02-12,BK Liepaja,Ventspils,79,98,-19,Ventspils,26,26,17,28,17,28,19,16,Quarter-finals,,,177
+g_3_O23PxVq1,2025-02-12,BK Ogre,Valmiera Glass Via,87,67,20,BK Ogre,23,18,26,8,26,23,12,18,Quarter-finals,,,154
+g_3_t49jKrpI,2025-02-12,VEF Riga,Rigas Zelli,80,59,21,VEF Riga,21,17,14,14,23,14,22,14,Quarter-finals,,,139
+g_3_0lED38o6,2025-02-08,BC Kalev/Cramo,Valmiera Glass Via,84,83,1,BC Kalev/Cramo,29,23,17,14,15,21,23,25,Quarter-finals,,,167
+g_3_rqrjOVU7,2025-02-08,BK Liepaja,Viimsi,87,54,33,BK Liepaja,24,15,14,12,26,19,23,8,Quarter-finals,,,141
+g_3_OvLxnZME,2025-02-08,BK Ogre,Tartu Ulikool,79,86,-7,Tartu Ulikool,18,21,23,28,13,18,25,19,Quarter-finals,,,165
+g_3_hOA55UGg,2025-02-08,Rapla,Parnu,113,76,37,Rapla,24,15,30,15,28,17,31,29,Quarter-finals,,,189
+g_3_W4OppDiR,2025-02-08,Latvijas Universitate,VEF Riga,59,78,-19,VEF Riga,10,32,16,13,23,18,10,15,Quarter-finals,,,137
+g_3_ddHd7jns,2025-02-07,Keila Coolbet,Rigas Zelli,60,84,-24,Rigas Zelli,15,25,10,15,15,25,20,19,Quarter-finals,,,144
+g_3_jyQrQi0e,2025-02-07,Ventspils,Viimsi,106,57,49,Ventspils,27,15,21,19,30,7,28,16,Quarter-finals,,,163
+g_3_0QVQCCOJ,2025-02-05,Tal Tech,Rapla,85,81,4,Tal Tech,24,15,23,21,15,28,23,17,Quarter-finals,,,166
+g_3_zXBnk9WC,2025-02-02,Keila Coolbet,BC Kalev/Cramo,60,111,-51,BC Kalev/Cramo,18,33,12,30,12,23,18,25,Quarter-finals,,,171
+g_3_O6g3Soyn,2025-02-01,Keila KK,BK Liepaja,90,77,13,Keila KK,21,19,24,23,22,17,23,18,Quarter-finals,,,167
+g_3_f9WZRDVr,2025-02-01,Latvijas Universitate,BK Ogre,65,97,-32,BK Ogre,15,32,13,22,15,26,22,17,Quarter-finals,,,162
+g_3_6iKVhiXm,2025-02-01,Parnu,Ventspils,100,90,10,Parnu,20,23,21,26,30,17,29,24,Quarter-finals,,,190
+g_3_zPHINHjA,2025-01-31,VEF Riga,Valmiera Glass Via,92,73,19,VEF Riga,18,27,26,21,31,12,17,13,Quarter-finals,,,165
+g_3_z9TabD9Q,2025-01-31,Rapla,BK Liepaja,99,111,-12,BK Liepaja,21,18,24,23,28,23,19,28,Quarter-finals,7,19,210
+g_3_6ufEaQNi,2025-01-31,Tartu Ulikool,Keila Coolbet,96,66,30,Tartu Ulikool,28,21,18,19,27,12,23,14,Quarter-finals,,,162
+g_3_8GGHL1Ol,2025-01-29,Viimsi,Keila KK,85,79,6,Viimsi,26,23,18,23,18,21,23,12,Quarter-finals,,,164
+g_3_lGm5xWn7,2025-01-28,Rapla,Tartu Ulikool,92,80,12,Rapla,30,24,21,22,25,19,16,15,Quarter-finals,,,172
+g_3_bwo4XZ7L,2025-01-26,Latvijas Universitate,BC Kalev/Cramo,65,75,-10,BC Kalev/Cramo,16,16,9,21,22,20,18,18,Quarter-finals,,,140
+g_3_pOjltEmr,2025-01-26,Keila Coolbet,Valmiera Glass Via,85,90,-5,Valmiera Glass Via,11,28,26,24,32,23,16,15,Quarter-finals,,,175
+g_3_2BieZew9,2025-01-25,Rigas Zelli,Viimsi,100,71,29,Rigas Zelli,32,14,25,21,26,19,17,17,Quarter-finals,,,171
+g_3_hlfdvhIf,2025-01-25,Tartu Ulikool,VEF Riga,67,93,-26,VEF Riga,16,19,18,27,18,23,15,24,Quarter-finals,,,160
+g_3_dE49Bho2,2025-01-25,BK Liepaja,BC Kalev/Cramo,88,92,-4,BC Kalev/Cramo,22,20,16,25,31,20,19,27,Quarter-finals,,,180
+g_3_AobEBduP,2025-01-25,Parnu,Keila KK,91,82,9,Parnu,27,6,29,27,16,25,19,24,Quarter-finals,,,173
+g_3_zaG0DEGk,2025-01-24,Ventspils,Tal Tech,96,86,10,Ventspils,27,26,26,13,23,21,20,26,Quarter-finals,,,182
+g_3_8lWLKdOF,2025-01-22,BK Liepaja,Tal Tech,97,92,5,BK Liepaja,17,25,28,21,15,16,23,21,Quarter-finals,14,9,189
+g_3_4GPUIzgS,2025-01-22,BK Ogre,Rigas Zelli,76,72,4,BK Ogre,25,20,17,21,19,15,15,16,Quarter-finals,,,148
+g_3_zyYDMIg3,2025-01-22,Latvijas Universitate,Parnu,80,97,-17,Parnu,20,14,16,26,22,26,22,31,Quarter-finals,,,177
+g_3_QZwGbM39,2025-01-21,Rapla,Viimsi,82,64,18,Rapla,17,18,24,19,24,16,17,11,Quarter-finals,,,146
+g_3_SvCkr1JS,2025-01-20,BC Kalev/Cramo,BK Ogre,87,80,7,BC Kalev/Cramo,16,14,19,27,28,13,24,26,Quarter-finals,,,167
+g_3_xYa6DIAC,2025-01-18,Keila KK,Keila Coolbet,84,79,5,Keila KK,27,18,16,24,17,15,24,22,Quarter-finals,,,163
+g_3_vJu80rZd,2025-01-17,BC Kalev/Cramo,Tartu Ulikool,79,84,-5,Tartu Ulikool,18,15,24,23,24,21,13,25,Quarter-finals,,,163
+g_3_OAcLxusj,2025-01-17,Parnu,Tal Tech,77,74,3,Parnu,19,20,19,25,22,16,17,13,Quarter-finals,,,151
+g_3_KlLsM4F5,2025-01-15,Rigas Zelli,Latvijas Universitate,87,59,28,Rigas Zelli,17,16,19,25,17,11,34,7,Quarter-finals,,,146
+g_3_MejRbF1d,2025-01-15,BK Liepaja,Rapla,81,99,-18,Rapla,24,14,11,27,18,29,28,29,Quarter-finals,,,180
+g_3_WCItpNlG,2025-01-14,Parnu,Tartu Ulikool,87,90,-3,Tartu Ulikool,23,27,26,25,24,15,14,23,Quarter-finals,,,177
+g_3_EVnJ0yXq,2025-01-14,Valmiera Glass Via,Keila KK,90,54,36,Valmiera Glass Via,25,16,18,14,31,13,16,11,Quarter-finals,,,144
+g_3_UcBn6c9M,2025-01-14,Ventspils,Rapla,90,76,14,Ventspils,24,14,24,25,21,14,21,23,Quarter-finals,,,166
+g_3_v50ZoqK3,2025-01-11,Tartu Ulikool,Tal Tech,76,103,-27,Tal Tech,19,29,13,22,17,26,27,26,Quarter-finals,,,179
+g_3_t66cFvt0,2025-01-11,Keila KK,BC Kalev/Cramo,60,93,-33,BC Kalev/Cramo,14,19,21,28,13,26,12,20,Quarter-finals,,,153
+g_3_IkCQm5ki,2025-01-10,Keila Coolbet,Parnu,96,98,-2,Parnu,30,23,22,27,22,19,22,29,Quarter-finals,,,194
+g_3_jqKvQ1cp,2025-01-08,Keila Coolbet,BK Liepaja,77,78,-1,BK Liepaja,24,20,18,22,19,17,16,19,Quarter-finals,,,155
+g_3_MX7v8JvA,2025-01-08,BK Ogre,Keila KK,99,91,8,BK Ogre,19,19,30,22,24,26,26,24,Quarter-finals,,,190
+g_3_Wbw8VNZM,2025-01-08,Tal Tech,Viimsi,86,66,20,Tal Tech,26,19,23,20,18,15,19,12,Quarter-finals,,,152
+g_3_GKxvAuAc,2025-01-07,Ventspils,Latvijas Universitate,90,70,20,Ventspils,27,24,31,17,23,18,9,11,Quarter-finals,,,160
+g_3_bou0Xq5A,2025-01-05,Viimsi,Parnu,70,80,-10,Parnu,28,16,15,20,16,21,11,23,Quarter-finals,,,150
+g_3_vqPbZ5zb,2025-01-04,BC Kalev/Cramo,Rigas Zelli,79,67,12,BC Kalev/Cramo,14,17,31,18,13,17,21,15,Quarter-finals,,,146
+g_3_hdvQxj1b,2025-01-04,Valmiera Glass Via,Ventspils,91,77,14,Valmiera Glass Via,18,23,29,15,22,21,22,18,Quarter-finals,,,168
+g_3_OQkhnxIj,2025-01-04,Latvijas Universitate,Keila Coolbet,71,69,2,Latvijas Universitate,21,13,23,14,16,21,11,21,Quarter-finals,,,140
+g_3_UPXJ4pYH,2025-01-04,BK Ogre,VEF Riga,59,81,-22,VEF Riga,13,19,10,18,14,28,22,16,Quarter-finals,,,140
+g_3_WILjyS5o,2025-01-03,Tartu Ulikool,BK Liepaja,81,80,1,Tartu Ulikool,9,20,23,13,28,25,21,22,Quarter-finals,,,161
+g_3_S4etHOKT,2024-12-30,BC Kalev/Cramo,Ventspils,89,81,8,BC Kalev/Cramo,19,25,28,25,19,18,23,13,Quarter-finals,,,170
+g_3_MaUB6635,2024-12-29,BK Ogre,Keila Coolbet,85,82,3,BK Ogre,26,17,18,21,18,26,23,18,Quarter-finals,,,167
+g_3_KvhYIpjH,2024-12-28,BC Kalev/Cramo,Rapla,82,77,5,BC Kalev/Cramo,21,23,22,27,27,13,12,14,Quarter-finals,,,159
+g_3_QuaPK6L4,2024-12-28,Keila KK,Parnu,68,98,-30,Parnu,21,29,11,24,19,17,17,28,Quarter-finals,,,166
+g_3_0pt38SYh,2024-12-28,Rigas Zelli,Tartu Ulikool,79,65,14,Rigas Zelli,26,15,23,11,10,19,20,20,Quarter-finals,,,144
+g_3_GM7pjoJO,2024-12-28,BK Liepaja,Valmiera Glass Via,76,63,13,BK Liepaja,29,19,14,12,15,13,18,19,Quarter-finals,,,139
+g_3_r99xh7lC,2024-12-28,Latvijas Universitate,Viimsi,84,94,-10,Viimsi,22,14,26,24,20,27,16,29,Quarter-finals,,,178
+g_3_hS0HMSjh,2024-12-22,Viimsi,Tartu Ulikool,77,81,-4,Tartu Ulikool,25,21,13,19,19,26,20,15,Quarter-finals,,,158
+g_3_fmweAl4t,2024-12-21,VEF Riga,Tal Tech,82,52,30,VEF Riga,18,10,26,17,17,12,21,13,Quarter-finals,,,134
+g_3_d078OlMu,2024-12-21,Parnu,Keila Coolbet,72,87,-15,Keila Coolbet,15,16,17,18,27,23,13,30,Quarter-finals,,,159
+g_3_6ySb4oyO,2024-12-21,BC Kalev/Cramo,Keila KK,122,48,74,BC Kalev/Cramo,35,10,36,21,22,12,29,5,Quarter-finals,,,170
+g_3_pMwj676B,2024-12-18,Viimsi,Valmiera Glass Via,89,94,-5,Valmiera Glass Via,30,23,17,23,20,23,22,25,Quarter-finals,,,183
+g_3_nsGTgTJa,2024-12-18,BK Ogre,Rapla,71,57,14,BK Ogre,25,22,23,13,6,12,17,10,Quarter-finals,,,128
+g_3_CfQr8Tya,2024-12-18,Parnu,Rigas Zelli,51,87,-36,Rigas Zelli,11,25,11,20,14,17,15,25,Quarter-finals,,,138
+g_3_GSWZ9k7n,2024-12-18,Tal Tech,Latvijas Universitate,97,51,46,Tal Tech,23,7,29,10,24,15,21,19,Quarter-finals,,,148
+g_3_0QHLekkm,2024-12-17,BK Liepaja,Keila Coolbet,90,75,15,BK Liepaja,29,19,16,19,21,18,24,19,Quarter-finals,,,165
+g_3_ptA2ScND,2024-12-15,Rapla,Valmiera Glass Via,91,86,5,Rapla,33,21,20,17,19,20,19,28,Quarter-finals,,,177
+g_3_z1eHZ8RE,2024-12-14,Keila KK,Viimsi,85,77,8,Keila KK,17,17,22,22,20,10,26,28,Quarter-finals,,,162
+g_3_Ghtk1BRP,2024-12-14,Rigas Zelli,Tal Tech,82,62,20,Rigas Zelli,21,12,29,10,17,20,15,20,Quarter-finals,,,144
+g_3_lnl3w8ZI,2024-12-14,BK Liepaja,VEF Riga,89,80,9,BK Liepaja,28,20,23,18,16,21,22,21,Quarter-finals,,,169
+g_3_S4uIKo47,2024-12-14,Parnu,BC Kalev/Cramo,62,75,-13,BC Kalev/Cramo,11,22,19,19,10,13,22,21,Quarter-finals,,,137
+g_3_M7xAM7Zf,2024-12-13,Keila Coolbet,Tartu Ulikool,81,102,-21,Tartu Ulikool,26,23,22,21,20,26,13,32,Quarter-finals,,,183
+g_3_hKffuU46,2024-12-13,Ventspils,BK Ogre,81,95,-14,BK Ogre,15,24,24,27,20,25,22,19,Quarter-finals,,,176
+g_3_0hl1OT4r,2024-12-11,Keila Coolbet,Rapla,80,77,3,Keila Coolbet,18,27,22,20,16,6,24,24,Quarter-finals,,,157
+g_3_8f3VB5Z7,2024-12-10,Keila KK,Rigas Zelli,42,89,-47,Rigas Zelli,12,15,9,28,13,27,8,19,Quarter-finals,,,131
+g_3_K6dnsjzf,2024-12-10,Ventspils,Parnu,95,92,3,Ventspils,28,13,17,24,27,26,13,22,Quarter-finals,10,7,187
+g_3_U9cVTksL,2024-12-08,Viimsi,Latvijas Universitate,87,77,10,Viimsi,21,19,30,21,16,9,20,28,Quarter-finals,,,164
+g_3_vclvqC5s,2024-12-07,Valmiera Glass Via,BC Kalev/Cramo,78,76,2,Valmiera Glass Via,7,26,30,10,22,17,19,23,Quarter-finals,,,154
+g_3_8Ec8lYsK,2024-12-07,Rigas Zelli,Rapla,73,58,15,Rigas Zelli,23,11,12,17,22,20,16,10,Quarter-finals,,,131
+g_3_Ys4MVBC8,2024-12-07,Tal Tech,Parnu,71,94,-23,Parnu,20,21,18,22,24,30,9,21,Quarter-finals,,,165
+g_3_SIKLQUkD,2024-12-07,VEF Riga,Keila Coolbet,94,55,39,VEF Riga,21,14,35,18,21,13,17,10,Quarter-finals,,,149
+g_3_tlHz88K1,2024-12-06,Tartu Ulikool,BK Ogre,66,68,-2,BK Ogre,19,23,19,12,14,9,14,24,Quarter-finals,,,134
+g_3_KhHDSjL0,2024-12-06,Ventspils,BK Liepaja,101,81,20,Ventspils,27,20,24,30,35,21,15,10,Quarter-finals,,,182
+g_3_Mo1Z9Ukk,2024-12-03,Parnu,Rapla,78,80,-2,Rapla,22,17,19,17,24,24,13,22,Quarter-finals,,,158
+g_3_v1QoRN0R,2024-12-03,Tartu Ulikool,Keila KK,89,85,4,Tartu Ulikool,14,23,20,19,25,25,30,18,Quarter-finals,,,174
+g_3_0j1CUCjl,2024-12-03,Valmiera Glass Via,Tal Tech,78,48,30,Valmiera Glass Via,23,11,22,12,16,14,17,11,Quarter-finals,,,126
+g_3_EiIZNQpg,2024-12-03,VEF Riga,Latvijas Universitate,85,67,18,VEF Riga,24,10,24,17,16,21,21,19,Quarter-finals,,,152
+g_3_j3A3FjSR,2024-12-01,Viimsi,BK Liepaja,67,97,-30,BK Liepaja,20,27,12,25,20,20,15,25,Quarter-finals,,,164
+g_3_UmMfHCcF,2024-11-30,Tartu Ulikool,Parnu,94,91,3,Tartu Ulikool,21,20,25,22,27,23,21,26,Quarter-finals,,,185
+g_3_4KFtzZSQ,2024-11-30,VEF Riga,BK Ogre,78,73,5,VEF Riga,21,20,16,18,13,21,28,14,Quarter-finals,,,151
+g_3_8hMXyebE,2024-11-30,Rigas Zelli,BC Kalev/Cramo,84,70,14,Rigas Zelli,29,19,18,17,19,15,18,19,Quarter-finals,,,154
+g_3_MNInJYS2,2024-11-30,Rapla,Tal Tech,93,91,2,Rapla,15,17,27,27,25,27,26,20,Quarter-finals,,,184
+g_3_tnUoEi67,2024-11-30,Latvijas Universitate,Keila KK,77,68,9,Latvijas Universitate,23,23,18,8,16,16,20,21,Quarter-finals,,,145
+g_3_MXL0eVzd,2024-11-28,Parnu,Viimsi,74,80,-6,Viimsi,19,21,8,14,29,23,18,22,Quarter-finals,,,154
+g_3_lKNhci6q,2024-11-27,Keila Coolbet,Ventspils,82,75,7,Keila Coolbet,18,21,26,20,23,16,15,18,Quarter-finals,,,157
+g_3_KWuwGDye,2024-11-27,Latvijas Universitate,Rigas Zelli,66,83,-17,Rigas Zelli,21,20,12,12,18,18,15,33,Quarter-finals,,,149
+g_3_UZtM2DrM,2024-11-27,Tal Tech,BC Kalev/Cramo,75,109,-34,BC Kalev/Cramo,22,28,17,29,24,34,12,18,Quarter-finals,,,184
+g_3_IPOQPnGt,2024-11-17,Rigas Zelli,Valmiera Glass Via,72,61,11,Rigas Zelli,20,21,13,15,21,14,18,11,Quarter-finals,,,133
+g_3_EZxVHZ6r,2024-11-17,BK Ogre,Parnu,76,87,-11,Parnu,23,19,21,28,17,22,15,18,Quarter-finals,,,163
+g_3_M9wE4ZD9,2024-11-17,Tartu Ulikool,Latvijas Universitate,88,74,14,Tartu Ulikool,21,17,32,23,21,14,14,20,Quarter-finals,,,162
+g_3_0fk56eqc,2024-11-17,Viimsi,Tal Tech,70,88,-18,Tal Tech,23,21,13,20,12,22,22,25,Quarter-finals,,,158
+g_3_2DlH5qVO,2024-11-17,VEF Riga,Ventspils,71,63,8,VEF Riga,18,25,12,14,17,15,24,9,Quarter-finals,,,134
+g_3_KYKdzrN9,2024-11-16,BK Liepaja,Keila KK,83,82,1,BK Liepaja,27,12,17,23,21,30,18,17,Quarter-finals,,,165
+g_3_fc2Jrhij,2024-11-16,Rapla,BC Kalev/Cramo,75,87,-12,BC Kalev/Cramo,18,27,19,22,22,15,16,23,Quarter-finals,,,162
+g_3_zDLnlETS,2024-11-13,Tartu Ulikool,Rapla,90,84,6,Tartu Ulikool,17,14,16,24,22,14,18,21,Quarter-finals,17,11,174
+g_3_nLMlx4hc,2024-11-13,Valmiera Glass Via,BK Ogre,88,92,-4,BK Ogre,20,29,15,20,29,24,24,19,Quarter-finals,,,180
+g_3_Uqh4UiZj,2024-11-13,Latvijas Universitate,Ventspils,87,89,-2,Ventspils,19,11,23,30,16,33,29,15,Quarter-finals,,,176
+g_3_2aNvjzaG,2024-11-10,Viimsi,BK Ogre,53,70,-17,BK Ogre,14,14,14,17,10,25,15,14,Quarter-finals,,,123
+g_3_YaiZZDBT,2024-11-09,Rigas Zelli,Parnu,89,76,13,Rigas Zelli,18,17,23,20,20,17,28,22,Quarter-finals,,,165
+g_3_CS9MDR4e,2024-11-09,Keila KK,VEF Riga,78,90,-12,VEF Riga,27,25,17,17,13,25,21,23,Quarter-finals,,,168
+g_3_6oe8750C,2024-11-08,BK Liepaja,Latvijas Universitate,78,71,7,BK Liepaja,24,23,11,15,21,13,22,20,Quarter-finals,,,149
+g_3_Cp3QyzsH,2024-11-08,Valmiera Glass Via,Keila Coolbet,93,89,4,Valmiera Glass Via,17,23,29,22,21,16,26,28,Quarter-finals,,,182
+g_3_6XTVidU3,2024-11-08,Tal Tech,Tartu Ulikool,67,84,-17,Tartu Ulikool,19,22,10,21,12,21,26,20,Quarter-finals,,,151
+g_3_0zRNgIai,2024-11-06,Viimsi,Ventspils,89,94,-5,Ventspils,23,18,13,23,26,25,27,28,Quarter-finals,,,183
+g_3_4KaIwdC4,2024-11-05,VEF Riga,BK Liepaja,74,58,16,VEF Riga,22,27,18,7,22,4,12,20,Quarter-finals,,,132
+g_3_KvlyWE7p,2024-11-05,Rapla,Ventspils,110,104,6,Rapla,22,22,24,23,19,20,20,20,Quarter-finals,25,19,214
+g_3_EuM3lNNB,2024-11-03,Keila Coolbet,BK Ogre,80,75,5,Keila Coolbet,24,23,24,16,11,15,21,21,Quarter-finals,,,155
+g_3_IDSfjqga,2024-11-02,BC Kalev/Cramo,Viimsi,99,61,38,BC Kalev/Cramo,26,16,26,15,26,17,21,13,Quarter-finals,,,160
+g_3_8fJg8rjU,2024-11-02,Keila KK,Valmiera Glass Via,71,94,-23,Valmiera Glass Via,26,27,13,13,12,27,20,27,Quarter-finals,,,165
+g_3_8h69uIsh,2024-11-02,VEF Riga,Parnu,75,70,5,VEF Riga,23,20,25,8,12,27,15,15,Quarter-finals,,,145
+g_3_GbJNHEko,2024-11-02,Latvijas Universitate,Tal Tech,66,75,-9,Tal Tech,9,22,18,19,23,15,16,19,Quarter-finals,,,141
+g_3_p0Unh5On,2024-11-01,Rapla,Rigas Zelli,66,96,-30,Rigas Zelli,25,14,18,28,13,28,10,26,Quarter-finals,,,162
+g_3_bswiNzSN,2024-11-01,Ventspils,Tartu Ulikool,92,93,-1,Tartu Ulikool,16,22,24,26,27,24,25,21,Quarter-finals,,,185
+g_3_jHZrPdcB,2024-10-30,BK Liepaja,Tartu Ulikool,63,66,-3,Tartu Ulikool,19,20,12,20,20,9,12,17,Quarter-finals,,,129
+g_3_GUBOcR0P,2024-10-30,Tal Tech,Rigas Zelli,76,113,-37,Rigas Zelli,13,35,22,25,17,24,24,29,Quarter-finals,,,189
+g_3_U1ozRISb,2024-10-29,Valmiera Glass Via,Viimsi,79,49,30,Valmiera Glass Via,15,19,19,10,17,10,28,10,Quarter-finals,,,128
+g_3_S8VTypv6,2024-10-27,Viimsi,Keila Coolbet,70,77,-7,Keila Coolbet,14,14,22,16,13,28,21,19,Quarter-finals,,,147
+g_3_lOJxzO8I,2024-10-26,Tartu Ulikool,BC Kalev/Cramo,81,85,-4,BC Kalev/Cramo,20,21,25,23,23,14,13,27,Quarter-finals,,,166
+g_3_MyrSSvbn,2024-10-26,Rigas Zelli,BK Ogre,88,71,17,Rigas Zelli,23,23,24,7,17,21,24,20,Quarter-finals,,,159
+g_3_QqZCuSvs,2024-10-26,Parnu,Valmiera Glass Via,83,78,5,Parnu,17,12,13,22,23,22,30,22,Quarter-finals,,,161
+g_3_KrSLw69g,2024-10-26,Rapla,Latvijas Universitate,79,60,19,Rapla,16,17,22,16,21,20,20,7,Quarter-finals,,,139
+g_3_UDmsolHJ,2024-10-26,Tal Tech,Ventspils,93,87,6,Tal Tech,30,22,19,20,22,18,22,27,Quarter-finals,,,180
+g_3_E55fNpPC,2024-10-23,Keila Coolbet,Keila KK,83,72,11,Keila Coolbet,24,17,15,15,24,20,20,20,Quarter-finals,,,155
+g_3_6u2nP6f0,2024-10-23,Tal Tech,VEF Riga,80,93,-13,VEF Riga,15,19,18,23,18,29,29,22,Quarter-finals,,,173
+g_3_pQDwRSPm,2024-10-20,Keila Coolbet,Latvijas Universitate,83,75,8,Keila Coolbet,19,21,21,21,23,16,20,17,Quarter-finals,,,158
+g_3_ziS7Wl2Q,2024-10-20,Viimsi,Rigas Zelli,70,66,4,Viimsi,18,28,18,14,19,14,15,10,Quarter-finals,,,136
+g_3_KzjP8yDU,2024-10-19,VEF Riga,Rapla,84,62,22,VEF Riga,21,21,26,9,22,12,15,20,Quarter-finals,,,146
+g_3_vFBEFmzq,2024-10-19,Keila KK,Tal Tech,66,77,-11,Tal Tech,15,11,21,26,18,21,12,19,Quarter-finals,,,143
+g_3_nNiHAcrI,2024-10-19,BK Ogre,BC Kalev/Cramo,69,95,-26,BC Kalev/Cramo,11,25,27,24,14,18,17,28,Quarter-finals,,,164
+g_3_vPYbYAXD,2024-10-19,Parnu,BK Liepaja,81,91,-10,BK Liepaja,20,19,17,31,33,22,11,19,Quarter-finals,,,172
+g_3_nVoDA7u7,2024-10-18,Tartu Ulikool,Rigas Zelli,77,71,6,Tartu Ulikool,20,10,19,20,12,18,26,23,Quarter-finals,,,148
+g_3_jeb8CJD5,2024-10-18,Ventspils,Valmiera Glass Via,91,95,-4,Valmiera Glass Via,17,18,33,20,17,28,24,29,Quarter-finals,,,186
+g_3_rVf0Euqg,2024-10-16,BK Ogre,Tal Tech,86,66,20,BK Ogre,17,16,24,8,26,18,19,24,Quarter-finals,,,152
+g_3_IoxwTqWE,2024-10-15,Rapla,Keila KK,100,73,27,Rapla,26,24,26,15,29,15,19,19,Quarter-finals,,,173
+g_3_MF6iG1Et,2024-10-15,Valmiera Glass Via,Tartu Ulikool,89,87,2,Valmiera Glass Via,22,17,20,12,20,19,14,28,Quarter-finals,13,11,176
+g_3_j3h4CTAf,2024-10-13,Viimsi,Rapla,80,85,-5,Rapla,21,26,25,22,20,14,14,23,Quarter-finals,,,165
+g_3_n9CrdbTO,2024-10-12,Rigas Zelli,Keila Coolbet,87,80,7,Rigas Zelli,27,17,18,21,15,23,27,19,Quarter-finals,,,167
+g_3_CSPpA4LH,2024-10-12,Keila KK,BK Ogre,83,96,-13,BK Ogre,21,18,17,35,19,16,26,27,Quarter-finals,,,179
+g_3_ENbQJBIK,2024-10-12,Tal Tech,BK Liepaja,100,97,3,Tal Tech,28,27,25,17,23,31,24,22,Quarter-finals,,,197
+g_3_KUd09RVa,2024-10-12,VEF Riga,Tartu Ulikool,74,71,3,VEF Riga,20,24,19,13,15,13,20,21,Quarter-finals,,,145
+g_3_bezcEktr,2024-10-12,Parnu,Latvijas Universitate,77,53,24,Parnu,22,8,16,10,28,10,11,25,Quarter-finals,,,130
+g_3_6ceILXm8,2024-10-11,BC Kalev/Cramo,BK Liepaja,90,74,16,BC Kalev/Cramo,20,20,24,11,24,28,22,15,Quarter-finals,,,164
+g_3_jsJZcKbC,2024-10-11,Valmiera Glass Via,Rapla,80,65,15,Valmiera Glass Via,14,13,23,18,17,19,26,15,Quarter-finals,,,145
+g_3_jkDVcUe1,2024-10-09,Tal Tech,Keila Coolbet,86,82,4,Tal Tech,17,22,15,20,26,23,28,17,Quarter-finals,,,168
+g_3_ITKRatUa,2024-10-09,VEF Riga,Viimsi,89,52,37,VEF Riga,21,10,18,11,28,10,22,21,Quarter-finals,,,141
+g_3_M1RI12am,2024-10-08,Ventspils,Keila KK,116,78,38,Ventspils,31,15,23,15,33,22,29,26,Quarter-finals,,,194
+g_3_IyFNajRl,2024-10-06,BC Kalev/Cramo,Latvijas Universitate,81,76,5,BC Kalev/Cramo,21,18,16,20,26,23,18,15,Quarter-finals,,,157
+g_3_dGRbd7N7,2024-10-05,BK Liepaja,Rigas Zelli,78,82,-4,Rigas Zelli,20,22,19,21,24,18,15,21,Quarter-finals,,,160
+g_3_xC4oKAFE,2024-10-05,BK Ogre,Ventspils,95,75,20,BK Ogre,21,13,26,17,24,21,24,24,Quarter-finals,,,170
+g_3_ljOjbThe,2024-10-04,Valmiera Glass Via,VEF Riga,61,68,-7,VEF Riga,18,18,19,21,10,14,14,15,Quarter-finals,,,129
+g_3_hOUs0kOr,2024-09-28,Latvijas Universitate,Valmiera Glass Via,72,92,-20,Valmiera Glass Via,15,26,18,21,17,23,22,22,Quarter-finals,,,164
+g_3_dhqC5B0L,2024-09-28,BK Liepaja,BK Ogre,80,75,5,BK Liepaja,23,11,21,17,25,23,11,24,Quarter-finals,,,155
+g_3_00zcIbsG,2024-09-26,BC Kalev/Cramo,VEF Riga,63,84,-21,VEF Riga,22,19,22,25,7,25,12,15,Quarter-finals,,,147
+g_3_2gj37XV8,2024-09-26,Ventspils,Rigas Zelli,85,84,1,Ventspils,29,18,19,18,27,28,10,20,Quarter-finals,,,169
+g_3_zmbHqUw2,2024-09-21,Rigas Zelli,VEF Riga,91,88,3,Rigas Zelli,17,25,24,24,26,17,24,22,Quarter-finals,,,179
+g_3_EX98oj9k,2024-09-21,BK Ogre,Latvijas Universitate,90,74,16,BK Ogre,23,27,21,19,17,9,29,19,Quarter-finals,,,164
+g_3_rkJxiCoS,2024-09-20,Valmiera Glass Via,BK Liepaja,80,63,17,Valmiera Glass Via,22,13,23,16,11,19,24,15,Quarter-finals,,,143
