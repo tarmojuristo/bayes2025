@@ -16,8 +16,10 @@ def MvBinomial(name, p, N, n, **kwargs):
 # Abstracted from mrp.ipynb
 def poststratify(model, cdata, new_data, obs_name='y', n_samples=1000000):
     with model:
-        print("Sampling model")
-        idata = pm.sample(nuts_sampler='nutpie', idata_kwargs={"log_likelihood": True})
+        print("Sampling model...")
+        idata = pm.sample(nuts_sampler='nutpie') #, idata_kwargs={"log_likelihood": True})
+        print('Computing log-likelihood...') 
+        pm.compute_log_likelihood(idata, extend_inferencedata=True)
 
         pm.set_data(
             coords={
@@ -26,7 +28,7 @@ def poststratify(model, cdata, new_data, obs_name='y', n_samples=1000000):
             new_data=new_data
         )
         
-        print("Sampling posterior predictive on census data")
+        print("Sampling posterior predictive on census data...")
         # Reduce the sample to just 100 draws from 2 chains each
         idata_s = idata.sel(draw=slice(0,500),chain=[0,1])
         idata_ps = pm.sample_posterior_predictive(
@@ -34,7 +36,7 @@ def poststratify(model, cdata, new_data, obs_name='y', n_samples=1000000):
             predictions=True
         )
 
-    print("Sampling synthetic population")
+    print("Sampling synthetic population...")
     pred = idata_ps.predictions[obs_name]
 
     # This needed some technical work to not explode memory usage
