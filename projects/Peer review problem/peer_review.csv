@@ -1,0 +1,1001 @@
+paper_id,journal,paper_topic,max_h-index,writing_quality,accepted
+1,B,Gaussian Process,28,100,0
+2,B,NLP,7,72,0
+3,B,Neural Networks,17,72,0
+4,A,NLP,29,81,0
+5,A,NLP,19,86,1
+6,A,Neural Networks,7,45,0
+7,B,NLP,28,83,0
+8,A,NLP,13,55,0
+9,B,Neural Networks,8,82,1
+10,A,Bayes,22,80,0
+11,A,Neural Networks,9,62,0
+12,B,Linear regression,53,100,1
+13,A,Gaussian Process,13,86,0
+14,B,NLP,91,100,0
+15,B,Linear regression,22,78,0
+16,B,Bayes,11,52,0
+17,A,Bayes,22,100,0
+18,B,NLP,37,76,0
+19,A,Linear regression,22,44,0
+20,A,Neural Networks,16,79,0
+21,B,Neural Networks,53,100,0
+22,A,Linear regression,15,73,1
+23,A,Linear regression,11,66,0
+24,B,Neural Networks,35,99,0
+25,A,Neural Networks,15,68,1
+26,A,Linear regression,36,100,0
+27,A,Linear regression,22,92,1
+28,A,NLP,26,90,0
+29,A,Neural Networks,27,82,0
+30,B,NLP,18,82,0
+31,A,Bayes,19,73,0
+32,B,Neural Networks,20,57,0
+33,A,Neural Networks,31,100,0
+34,B,Neural Networks,20,96,0
+35,A,Linear regression,16,62,0
+36,A,NLP,28,60,1
+37,A,Bayes,7,57,0
+38,B,Linear regression,5,59,0
+39,A,Linear regression,24,67,0
+40,B,NLP,19,61,0
+41,B,Gaussian Process,10,84,1
+42,A,Linear regression,31,61,0
+43,B,Bayes,29,99,1
+44,A,Linear regression,22,73,0
+45,A,Neural Networks,11,60,0
+46,B,Neural Networks,30,90,1
+47,A,Linear regression,22,81,0
+48,A,Neural Networks,25,79,0
+49,B,Neural Networks,16,81,0
+50,A,NLP,34,37,1
+51,A,NLP,21,83,0
+52,A,Neural Networks,14,63,1
+53,B,Neural Networks,15,68,0
+54,A,Linear regression,20,61,0
+55,B,Bayes,21,100,0
+56,A,Neural Networks,63,100,0
+57,A,NLP,10,71,0
+58,A,Neural Networks,19,61,1
+59,A,Neural Networks,4,57,1
+60,B,NLP,23,64,0
+61,A,Linear regression,29,77,0
+62,A,Linear regression,46,86,0
+63,A,Bayes,28,83,0
+64,B,Neural Networks,9,81,1
+65,A,Bayes,40,91,0
+66,B,Linear regression,23,62,1
+67,B,Neural Networks,37,79,1
+68,A,Bayes,32,78,1
+69,B,Linear regression,14,42,0
+70,B,Linear regression,26,58,0
+71,A,NLP,11,77,1
+72,A,Linear regression,17,61,0
+73,B,Linear regression,40,93,0
+74,B,Neural Networks,26,89,0
+75,A,Linear regression,16,95,0
+76,A,NLP,4,76,0
+77,A,Bayes,18,74,0
+78,A,Linear regression,14,63,0
+79,A,Linear regression,27,64,0
+80,A,Linear regression,28,69,0
+81,B,Linear regression,11,63,1
+82,B,Neural Networks,61,100,0
+83,A,Bayes,25,81,0
+84,A,Neural Networks,16,81,0
+85,B,Linear regression,23,63,0
+86,A,Linear regression,19,97,0
+87,A,NLP,19,92,1
+88,B,Neural Networks,30,62,0
+89,A,Neural Networks,24,85,1
+90,B,Neural Networks,24,80,0
+91,A,Gaussian Process,50,100,0
+92,B,Neural Networks,12,55,0
+93,B,NLP,18,69,0
+94,A,Bayes,12,73,1
+95,A,NLP,14,81,0
+96,A,Neural Networks,18,88,1
+97,A,Linear regression,16,58,0
+98,A,NLP,17,82,1
+99,B,Gaussian Process,17,72,0
+100,A,Neural Networks,5,57,0
+101,B,Gaussian Process,57,100,0
+102,A,Gaussian Process,16,95,0
+103,A,NLP,18,70,0
+104,A,NLP,34,60,1
+105,A,Linear regression,14,69,0
+106,A,NLP,9,55,0
+107,B,Neural Networks,20,71,0
+108,B,NLP,27,79,1
+109,A,Neural Networks,17,69,0
+110,B,NLP,25,84,0
+111,B,Gaussian Process,46,100,1
+112,A,Neural Networks,24,96,0
+113,B,Neural Networks,15,59,0
+114,B,NLP,18,89,1
+115,B,Linear regression,13,89,1
+116,B,Linear regression,15,96,0
+117,A,Bayes,33,100,1
+118,B,Linear regression,16,68,0
+119,A,NLP,25,79,0
+120,A,NLP,19,89,0
+121,B,NLP,25,96,1
+122,B,NLP,13,80,0
+123,A,NLP,19,55,1
+124,A,Neural Networks,7,89,1
+125,B,NLP,31,80,0
+126,A,Gaussian Process,20,67,1
+127,B,Linear regression,50,100,0
+128,B,Linear regression,20,51,0
+129,A,NLP,17,76,0
+130,A,Neural Networks,27,72,0
+131,B,Neural Networks,9,78,0
+132,A,Neural Networks,24,90,0
+133,B,Linear regression,17,78,1
+134,A,Neural Networks,15,60,1
+135,A,NLP,31,65,1
+136,B,Gaussian Process,8,89,0
+137,B,NLP,16,74,1
+138,A,Gaussian Process,61,100,0
+139,B,NLP,30,83,0
+140,A,Linear regression,11,76,1
+141,A,Bayes,13,83,0
+142,B,Linear regression,38,100,1
+143,B,NLP,38,84,1
+144,A,Bayes,19,63,1
+145,A,Gaussian Process,7,74,0
+146,A,Neural Networks,21,61,1
+147,B,Linear regression,10,80,0
+148,A,Neural Networks,15,85,1
+149,A,Neural Networks,15,79,0
+150,A,Neural Networks,10,66,1
+151,A,Linear regression,42,100,0
+152,A,NLP,24,62,0
+153,B,Linear regression,35,100,1
+154,B,Linear regression,31,79,0
+155,A,Neural Networks,19,64,0
+156,A,NLP,15,81,1
+157,B,Bayes,3,81,0
+158,B,NLP,15,68,0
+159,A,NLP,45,90,0
+160,B,Neural Networks,37,70,0
+161,B,Bayes,32,100,0
+162,B,Neural Networks,14,47,0
+163,A,Neural Networks,29,67,0
+164,A,Neural Networks,29,95,1
+165,B,Neural Networks,25,65,0
+166,B,NLP,11,79,0
+167,A,Linear regression,23,90,0
+168,A,Linear regression,7,71,0
+169,A,Gaussian Process,27,68,0
+170,A,Linear regression,16,47,0
+171,B,Bayes,37,100,1
+172,A,NLP,13,84,0
+173,B,Neural Networks,22,76,1
+174,B,NLP,23,86,1
+175,B,Neural Networks,10,54,0
+176,A,NLP,35,80,1
+177,B,Neural Networks,12,76,0
+178,A,Linear regression,16,38,0
+179,A,Linear regression,22,82,0
+180,A,Neural Networks,11,64,0
+181,A,Linear regression,7,66,0
+182,A,NLP,28,99,0
+183,A,Linear regression,10,45,1
+184,B,Linear regression,11,60,0
+185,B,NLP,36,100,0
+186,B,Linear regression,15,78,1
+187,B,Neural Networks,26,69,0
+188,B,Linear regression,16,62,1
+189,A,Neural Networks,10,40,0
+190,A,Linear regression,24,69,1
+191,A,Neural Networks,25,79,0
+192,B,Linear regression,10,79,0
+193,B,Neural Networks,4,30,1
+194,B,NLP,23,74,0
+195,A,Bayes,14,74,0
+196,A,Linear regression,30,96,0
+197,B,Linear regression,21,73,0
+198,A,Neural Networks,8,78,1
+199,A,Bayes,17,87,0
+200,A,NLP,48,90,0
+201,A,NLP,20,73,0
+202,B,NLP,10,51,0
+203,B,NLP,43,94,0
+204,A,NLP,10,39,0
+205,A,Neural Networks,31,81,1
+206,B,Linear regression,22,66,0
+207,A,Neural Networks,32,50,0
+208,A,NLP,4,81,0
+209,A,Linear regression,44,86,0
+210,A,Linear regression,46,100,0
+211,A,Bayes,8,86,0
+212,A,Linear regression,11,66,1
+213,A,Gaussian Process,22,89,0
+214,A,Bayes,8,62,0
+215,A,Gaussian Process,22,89,0
+216,B,Neural Networks,29,87,1
+217,A,Gaussian Process,12,99,1
+218,B,Linear regression,15,78,0
+219,A,Linear regression,15,62,0
+220,B,Linear regression,33,73,0
+221,B,Neural Networks,14,53,0
+222,A,Bayes,61,100,1
+223,A,NLP,8,92,0
+224,A,Neural Networks,15,64,0
+225,A,Linear regression,19,95,1
+226,A,Linear regression,6,38,0
+227,A,Neural Networks,29,91,0
+228,B,Neural Networks,32,50,1
+229,A,Gaussian Process,17,82,0
+230,A,Bayes,19,88,0
+231,B,Neural Networks,22,100,0
+232,A,Neural Networks,8,86,1
+233,B,Neural Networks,24,62,1
+234,A,Linear regression,27,100,1
+235,B,Linear regression,20,97,0
+236,A,Gaussian Process,17,69,0
+237,B,Neural Networks,30,82,0
+238,B,Bayes,13,71,1
+239,B,Neural Networks,43,95,0
+240,A,Bayes,26,86,0
+241,A,NLP,28,64,0
+242,A,Linear regression,13,96,0
+243,A,Gaussian Process,20,76,0
+244,A,Bayes,41,72,0
+245,A,Neural Networks,12,77,0
+246,B,NLP,23,70,0
+247,A,NLP,26,100,0
+248,B,Neural Networks,48,100,0
+249,B,Neural Networks,23,59,0
+250,B,Neural Networks,24,82,0
+251,A,Linear regression,27,79,1
+252,B,Linear regression,30,100,1
+253,B,Linear regression,20,66,0
+254,A,Gaussian Process,22,72,0
+255,A,Linear regression,23,75,0
+256,A,Linear regression,19,84,0
+257,B,Neural Networks,33,69,0
+258,A,NLP,22,73,0
+259,A,Linear regression,33,95,0
+260,A,Neural Networks,23,81,0
+261,B,Neural Networks,9,71,0
+262,A,Linear regression,38,89,0
+263,A,Linear regression,55,100,0
+264,B,Linear regression,33,100,0
+265,B,Neural Networks,20,65,0
+266,B,Linear regression,21,79,1
+267,A,NLP,12,79,0
+268,B,Linear regression,13,39,0
+269,B,Bayes,13,53,0
+270,B,Neural Networks,20,79,1
+271,B,Linear regression,53,100,0
+272,B,Linear regression,23,67,0
+273,B,Bayes,14,63,0
+274,B,Bayes,20,100,0
+275,B,Neural Networks,34,70,0
+276,A,Linear regression,48,74,0
+277,B,Neural Networks,24,73,0
+278,B,Linear regression,25,90,1
+279,B,NLP,12,59,0
+280,A,Gaussian Process,32,80,1
+281,B,Neural Networks,8,83,0
+282,A,Linear regression,18,78,0
+283,A,Bayes,32,88,1
+284,B,Bayes,8,48,0
+285,A,Neural Networks,26,59,1
+286,A,Linear regression,24,93,1
+287,A,Gaussian Process,15,86,1
+288,B,Linear regression,74,100,0
+289,A,Neural Networks,24,71,0
+290,A,NLP,26,76,0
+291,A,Gaussian Process,13,75,0
+292,A,Gaussian Process,34,76,0
+293,A,Gaussian Process,20,78,0
+294,A,Bayes,22,68,0
+295,A,Linear regression,15,56,1
+296,B,NLP,17,76,0
+297,A,Gaussian Process,54,100,0
+298,A,Neural Networks,32,89,0
+299,A,NLP,18,59,0
+300,A,Bayes,16,82,0
+301,B,Gaussian Process,18,92,0
+302,A,Neural Networks,19,85,0
+303,B,Bayes,31,81,1
+304,B,Neural Networks,18,73,0
+305,B,Bayes,11,64,0
+306,A,Bayes,15,100,1
+307,B,Neural Networks,33,75,1
+308,A,Linear regression,17,98,0
+309,B,NLP,14,88,1
+310,A,Bayes,13,83,1
+311,B,Linear regression,31,100,1
+312,B,Neural Networks,11,80,0
+313,B,NLP,16,94,0
+314,B,NLP,7,95,0
+315,B,Neural Networks,38,97,0
+316,B,Neural Networks,29,73,0
+317,B,Neural Networks,20,68,1
+318,B,Linear regression,20,67,1
+319,A,NLP,23,90,0
+320,B,Gaussian Process,29,93,1
+321,A,Gaussian Process,17,47,0
+322,A,Linear regression,20,82,0
+323,A,Bayes,28,84,0
+324,B,NLP,17,81,0
+325,B,NLP,21,86,1
+326,B,Linear regression,19,87,1
+327,B,Linear regression,27,78,1
+328,B,Bayes,20,82,1
+329,B,NLP,12,90,0
+330,B,Neural Networks,21,75,0
+331,A,NLP,3,50,0
+332,B,NLP,26,100,1
+333,A,Bayes,9,28,0
+334,A,NLP,31,91,1
+335,A,Bayes,20,79,1
+336,A,Bayes,23,71,0
+337,B,Linear regression,18,55,0
+338,B,Bayes,27,100,0
+339,B,NLP,17,80,1
+340,B,NLP,13,67,0
+341,B,Bayes,26,100,0
+342,B,Neural Networks,14,41,0
+343,A,Linear regression,19,66,0
+344,A,NLP,26,87,0
+345,B,NLP,47,100,0
+346,B,Neural Networks,18,79,0
+347,A,NLP,25,97,0
+348,A,Neural Networks,34,99,0
+349,A,Linear regression,15,65,0
+350,B,NLP,40,95,0
+351,A,NLP,12,89,0
+352,B,NLP,19,64,0
+353,B,Neural Networks,11,63,0
+354,B,Neural Networks,15,68,1
+355,A,Neural Networks,7,69,0
+356,B,NLP,13,59,0
+357,A,Linear regression,25,86,0
+358,A,Linear regression,19,67,0
+359,A,Bayes,17,96,0
+360,B,NLP,30,96,0
+361,B,Neural Networks,8,57,1
+362,B,NLP,15,76,1
+363,A,Bayes,27,80,0
+364,A,NLP,13,64,0
+365,A,Linear regression,45,100,0
+366,B,NLP,33,100,0
+367,A,Bayes,46,95,0
+368,A,NLP,25,64,1
+369,B,Neural Networks,68,100,1
+370,B,NLP,5,57,0
+371,B,Neural Networks,13,86,0
+372,A,Bayes,83,100,1
+373,B,Linear regression,13,67,0
+374,B,NLP,28,72,0
+375,A,Linear regression,42,87,0
+376,A,NLP,14,63,0
+377,A,Neural Networks,43,100,0
+378,B,NLP,35,93,0
+379,A,Neural Networks,32,74,1
+380,B,NLP,20,73,0
+381,A,Neural Networks,32,100,0
+382,B,Linear regression,22,87,0
+383,A,NLP,24,77,0
+384,A,Gaussian Process,11,81,0
+385,A,Neural Networks,31,82,0
+386,B,Gaussian Process,21,75,1
+387,A,Neural Networks,22,100,0
+388,B,NLP,20,50,0
+389,B,Linear regression,17,87,0
+390,B,Neural Networks,29,84,1
+391,A,Gaussian Process,11,59,0
+392,A,NLP,18,81,0
+393,A,Linear regression,18,57,0
+394,A,Neural Networks,10,56,0
+395,A,NLP,23,65,0
+396,A,Bayes,33,100,1
+397,B,Gaussian Process,14,61,1
+398,A,Linear regression,20,56,1
+399,B,Linear regression,18,91,0
+400,B,Bayes,13,49,0
+401,A,NLP,12,70,0
+402,B,NLP,43,100,0
+403,B,NLP,10,75,0
+404,A,Linear regression,49,100,1
+405,A,NLP,11,65,1
+406,B,Linear regression,26,100,0
+407,A,NLP,13,72,0
+408,A,Bayes,9,92,1
+409,B,Neural Networks,23,54,0
+410,A,Gaussian Process,37,66,0
+411,B,Linear regression,25,64,0
+412,A,Linear regression,16,68,0
+413,B,Neural Networks,20,79,0
+414,B,Neural Networks,6,71,1
+415,A,Neural Networks,68,100,1
+416,B,NLP,18,80,0
+417,A,NLP,11,36,1
+418,B,Neural Networks,33,88,0
+419,B,Linear regression,19,61,0
+420,B,Linear regression,20,67,0
+421,A,NLP,14,79,0
+422,A,Bayes,13,71,0
+423,A,Bayes,20,84,0
+424,A,Linear regression,30,62,0
+425,A,Neural Networks,42,100,0
+426,B,Neural Networks,45,85,0
+427,B,NLP,10,64,1
+428,B,NLP,22,72,1
+429,A,NLP,12,93,0
+430,B,Neural Networks,20,70,0
+431,A,Linear regression,48,100,1
+432,B,Linear regression,10,73,0
+433,B,Neural Networks,9,70,0
+434,B,NLP,11,65,1
+435,A,Bayes,16,67,0
+436,A,NLP,16,36,0
+437,A,Neural Networks,23,100,1
+438,B,Neural Networks,31,80,1
+439,B,Bayes,30,55,1
+440,A,NLP,28,91,0
+441,B,Linear regression,52,100,0
+442,A,NLP,10,67,0
+443,B,Linear regression,8,68,1
+444,A,Linear regression,15,82,0
+445,A,Neural Networks,37,76,0
+446,A,Neural Networks,33,74,1
+447,A,NLP,17,53,0
+448,B,Neural Networks,49,79,1
+449,B,Linear regression,31,75,0
+450,B,Gaussian Process,7,57,1
+451,A,Bayes,15,88,0
+452,A,Linear regression,17,93,0
+453,B,Neural Networks,26,82,0
+454,B,Gaussian Process,17,61,0
+455,B,Bayes,10,69,0
+456,B,Neural Networks,22,83,0
+457,A,Neural Networks,24,67,1
+458,B,Neural Networks,26,87,0
+459,A,Linear regression,24,68,0
+460,A,NLP,29,82,0
+461,B,Neural Networks,17,84,0
+462,B,NLP,21,90,0
+463,B,Linear regression,19,89,1
+464,B,Neural Networks,15,90,1
+465,B,NLP,10,51,0
+466,A,NLP,24,93,0
+467,B,NLP,22,88,0
+468,A,NLP,22,89,0
+469,A,NLP,26,72,0
+470,A,Linear regression,39,92,0
+471,A,Bayes,22,64,0
+472,B,Linear regression,15,95,1
+473,A,Neural Networks,33,84,0
+474,A,Neural Networks,6,50,0
+475,A,NLP,16,57,0
+476,A,NLP,22,46,1
+477,A,Neural Networks,12,60,0
+478,B,NLP,15,84,1
+479,B,NLP,25,80,1
+480,A,Gaussian Process,57,97,0
+481,B,Linear regression,8,76,0
+482,A,Bayes,17,61,0
+483,A,Gaussian Process,39,79,0
+484,B,NLP,31,94,0
+485,B,Neural Networks,14,89,0
+486,A,Gaussian Process,67,100,0
+487,B,Bayes,11,65,0
+488,A,Neural Networks,11,67,0
+489,A,Neural Networks,19,47,1
+490,B,Neural Networks,16,52,0
+491,B,Linear regression,18,80,1
+492,A,NLP,9,70,0
+493,A,NLP,21,100,1
+494,A,NLP,34,81,0
+495,A,Gaussian Process,42,68,1
+496,A,Bayes,25,71,0
+497,B,Linear regression,18,76,0
+498,B,Bayes,23,76,1
+499,B,NLP,13,48,1
+500,B,Linear regression,37,82,1
+501,B,Neural Networks,13,82,0
+502,B,NLP,16,61,0
+503,A,Bayes,18,66,1
+504,A,Neural Networks,12,47,0
+505,A,NLP,51,67,0
+506,A,Neural Networks,34,97,1
+507,A,NLP,36,100,0
+508,B,Linear regression,48,94,0
+509,B,Linear regression,14,60,0
+510,A,NLP,20,84,0
+511,B,Linear regression,14,69,0
+512,A,Linear regression,24,60,1
+513,A,NLP,16,62,1
+514,A,Gaussian Process,30,84,0
+515,B,Gaussian Process,40,100,1
+516,B,NLP,21,82,0
+517,B,Linear regression,31,61,1
+518,B,Neural Networks,46,100,0
+519,A,Linear regression,14,66,0
+520,B,Linear regression,23,59,0
+521,A,Bayes,28,73,0
+522,A,Neural Networks,24,77,0
+523,A,Bayes,23,59,0
+524,B,NLP,41,73,0
+525,A,Gaussian Process,12,70,0
+526,A,Bayes,47,100,0
+527,A,NLP,24,77,0
+528,A,NLP,30,83,1
+529,B,Neural Networks,21,94,1
+530,B,Bayes,9,53,0
+531,A,Linear regression,64,100,0
+532,A,NLP,16,53,0
+533,B,NLP,14,58,0
+534,A,Linear regression,8,50,0
+535,B,Neural Networks,19,65,1
+536,A,Linear regression,12,66,0
+537,B,Linear regression,7,61,1
+538,A,Bayes,18,71,0
+539,B,Linear regression,17,65,0
+540,A,NLP,46,93,0
+541,B,NLP,9,70,0
+542,B,Bayes,31,77,0
+543,A,Gaussian Process,24,73,0
+544,A,NLP,51,100,0
+545,A,Linear regression,26,83,0
+546,B,NLP,47,92,0
+547,B,NLP,23,100,0
+548,B,NLP,23,73,0
+549,A,Neural Networks,19,54,1
+550,B,Linear regression,16,75,0
+551,A,NLP,17,80,1
+552,A,Linear regression,21,66,0
+553,A,Linear regression,15,60,0
+554,A,Bayes,13,57,0
+555,B,Gaussian Process,34,100,0
+556,A,Linear regression,15,100,0
+557,B,Neural Networks,18,60,0
+558,A,Linear regression,32,87,0
+559,A,Linear regression,10,62,0
+560,A,Bayes,12,57,0
+561,B,Gaussian Process,23,59,0
+562,B,Linear regression,7,58,1
+563,B,Bayes,18,96,1
+564,B,NLP,10,70,1
+565,A,Linear regression,28,88,0
+566,A,NLP,25,89,0
+567,A,NLP,28,70,0
+568,B,Neural Networks,17,69,0
+569,A,Neural Networks,14,86,0
+570,B,NLP,14,62,0
+571,B,NLP,9,66,1
+572,A,NLP,15,52,1
+573,B,Gaussian Process,19,87,0
+574,A,Neural Networks,29,89,0
+575,A,Bayes,14,79,0
+576,B,Neural Networks,19,65,0
+577,B,NLP,8,48,0
+578,A,Neural Networks,16,82,0
+579,B,Neural Networks,24,85,0
+580,A,Linear regression,13,77,1
+581,A,Linear regression,17,61,1
+582,B,NLP,22,55,0
+583,A,Neural Networks,14,51,1
+584,A,NLP,23,84,0
+585,A,NLP,11,68,0
+586,A,Neural Networks,17,51,0
+587,A,Gaussian Process,23,62,0
+588,A,NLP,22,77,0
+589,A,Linear regression,13,92,0
+590,B,NLP,34,100,1
+591,A,NLP,16,75,0
+592,B,Neural Networks,16,63,0
+593,A,Bayes,22,71,0
+594,B,NLP,29,84,0
+595,A,Neural Networks,41,100,0
+596,A,NLP,6,50,0
+597,A,NLP,8,64,0
+598,A,Linear regression,27,67,0
+599,A,Bayes,8,51,0
+600,B,Linear regression,16,74,0
+601,A,Bayes,8,92,0
+602,A,Neural Networks,15,68,0
+603,B,Gaussian Process,27,70,1
+604,A,Linear regression,21,64,0
+605,A,Neural Networks,17,75,0
+606,B,Linear regression,18,51,1
+607,A,Linear regression,19,54,0
+608,B,Neural Networks,42,100,0
+609,A,Bayes,18,63,1
+610,A,Gaussian Process,12,67,0
+611,B,Bayes,13,76,1
+612,B,Neural Networks,19,91,0
+613,B,Gaussian Process,17,70,0
+614,B,Neural Networks,37,90,1
+615,A,NLP,33,85,0
+616,B,Linear regression,32,66,0
+617,B,Neural Networks,40,56,1
+618,A,Bayes,12,68,0
+619,B,Bayes,48,92,0
+620,B,Neural Networks,18,100,0
+621,A,Neural Networks,48,100,0
+622,A,Bayes,14,65,1
+623,B,Linear regression,47,100,0
+624,A,Neural Networks,23,58,0
+625,B,NLP,34,81,1
+626,B,Bayes,18,62,1
+627,B,Linear regression,8,88,1
+628,B,Bayes,26,60,1
+629,B,Linear regression,20,72,1
+630,B,Bayes,24,64,1
+631,B,Neural Networks,23,87,0
+632,B,Neural Networks,17,70,0
+633,A,Neural Networks,19,75,0
+634,B,Neural Networks,10,83,1
+635,B,Linear regression,32,82,0
+636,A,Neural Networks,25,62,0
+637,B,NLP,20,82,1
+638,B,Neural Networks,11,73,0
+639,B,Neural Networks,7,78,0
+640,B,NLP,15,94,0
+641,B,Bayes,55,99,0
+642,A,NLP,14,46,0
+643,B,Neural Networks,22,71,1
+644,B,Linear regression,21,100,1
+645,B,Linear regression,19,96,1
+646,B,Bayes,16,57,0
+647,A,Neural Networks,13,60,1
+648,A,Neural Networks,18,70,0
+649,B,Linear regression,28,78,1
+650,B,Neural Networks,13,47,1
+651,B,Neural Networks,38,88,0
+652,A,Neural Networks,20,88,0
+653,B,NLP,12,61,1
+654,A,Neural Networks,11,72,0
+655,B,Gaussian Process,36,95,0
+656,A,Bayes,11,44,0
+657,B,NLP,29,99,0
+658,B,Gaussian Process,28,83,1
+659,A,Gaussian Process,10,58,0
+660,A,Neural Networks,21,77,0
+661,A,NLP,66,100,0
+662,B,Linear regression,20,83,1
+663,B,Bayes,11,59,0
+664,B,Linear regression,35,71,0
+665,B,NLP,16,68,0
+666,B,Linear regression,29,60,0
+667,A,Bayes,26,97,0
+668,B,Bayes,15,81,1
+669,B,Linear regression,18,80,0
+670,A,Linear regression,22,81,1
+671,B,NLP,21,100,0
+672,B,Neural Networks,25,68,0
+673,A,Neural Networks,22,63,0
+674,A,Neural Networks,23,67,0
+675,A,Linear regression,11,69,0
+676,A,Bayes,39,86,0
+677,A,NLP,11,64,1
+678,A,Bayes,26,86,0
+679,A,Neural Networks,17,57,0
+680,A,NLP,15,55,0
+681,A,NLP,20,74,0
+682,B,Bayes,27,85,1
+683,A,NLP,13,56,1
+684,B,NLP,20,72,0
+685,A,NLP,23,66,0
+686,B,NLP,23,87,0
+687,B,Linear regression,23,53,0
+688,B,Bayes,40,93,0
+689,B,Linear regression,14,66,0
+690,B,Linear regression,27,70,0
+691,B,Bayes,49,100,1
+692,B,Neural Networks,15,100,0
+693,B,Neural Networks,29,68,0
+694,A,Linear regression,17,60,0
+695,B,NLP,30,69,0
+696,B,Linear regression,38,76,0
+697,B,NLP,27,87,0
+698,A,Linear regression,26,80,0
+699,B,Gaussian Process,33,92,0
+700,A,Neural Networks,21,91,1
+701,B,Linear regression,22,84,0
+702,B,Linear regression,19,84,1
+703,A,Linear regression,30,76,0
+704,B,Neural Networks,20,49,0
+705,A,Neural Networks,22,83,0
+706,A,Linear regression,27,88,0
+707,B,Linear regression,16,84,1
+708,B,NLP,16,62,0
+709,B,Linear regression,32,86,0
+710,A,NLP,7,81,0
+711,B,Bayes,25,92,0
+712,A,Neural Networks,9,54,0
+713,A,Linear regression,19,96,0
+714,A,NLP,36,69,0
+715,A,Bayes,28,62,0
+716,A,NLP,15,100,0
+717,B,Linear regression,15,76,1
+718,A,NLP,15,100,0
+719,A,Neural Networks,16,86,0
+720,A,Gaussian Process,28,66,0
+721,B,Neural Networks,35,83,0
+722,A,Neural Networks,24,98,1
+723,A,Linear regression,22,83,1
+724,A,Linear regression,41,100,0
+725,A,NLP,35,100,1
+726,A,Bayes,13,55,0
+727,A,Bayes,34,80,0
+728,B,Linear regression,26,61,1
+729,B,NLP,25,94,0
+730,A,Neural Networks,21,57,0
+731,B,Linear regression,33,78,1
+732,B,NLP,4,49,0
+733,A,Linear regression,52,100,1
+734,B,NLP,18,85,1
+735,A,NLP,8,65,0
+736,B,Linear regression,13,55,0
+737,A,Bayes,8,82,0
+738,B,Neural Networks,4,66,1
+739,A,Linear regression,18,68,0
+740,A,Neural Networks,65,100,0
+741,A,Neural Networks,21,84,1
+742,B,Bayes,4,70,0
+743,A,Bayes,25,74,0
+744,B,Bayes,28,83,1
+745,B,NLP,21,69,0
+746,B,Linear regression,5,62,0
+747,B,NLP,19,77,1
+748,A,Neural Networks,29,85,1
+749,B,Neural Networks,15,49,1
+750,B,NLP,15,59,0
+751,A,Linear regression,31,96,0
+752,B,Gaussian Process,16,44,0
+753,A,Bayes,3,51,0
+754,B,NLP,37,86,0
+755,B,Bayes,25,70,0
+756,A,Neural Networks,19,64,0
+757,A,NLP,27,83,1
+758,B,Neural Networks,24,89,0
+759,B,NLP,19,81,1
+760,B,Linear regression,12,100,1
+761,A,Bayes,12,77,1
+762,A,Neural Networks,17,95,0
+763,B,Neural Networks,12,65,0
+764,B,Neural Networks,13,61,0
+765,A,Linear regression,31,82,1
+766,A,Neural Networks,18,57,0
+767,B,NLP,37,96,1
+768,B,Linear regression,58,98,1
+769,B,Linear regression,33,100,0
+770,A,NLP,32,73,0
+771,B,Gaussian Process,8,56,1
+772,B,NLP,31,100,0
+773,B,Linear regression,29,72,0
+774,B,NLP,20,70,0
+775,B,Neural Networks,64,85,0
+776,B,Gaussian Process,26,91,0
+777,A,NLP,13,82,0
+778,A,Neural Networks,15,100,1
+779,B,Linear regression,29,93,1
+780,A,Linear regression,58,100,0
+781,B,Bayes,7,76,0
+782,A,Linear regression,12,73,0
+783,A,NLP,18,78,0
+784,A,NLP,40,100,0
+785,B,Bayes,14,54,1
+786,A,Bayes,17,89,0
+787,A,Linear regression,17,58,0
+788,A,Neural Networks,22,82,0
+789,A,Linear regression,24,56,0
+790,B,Linear regression,13,38,0
+791,B,Linear regression,19,70,1
+792,A,Gaussian Process,15,69,0
+793,B,NLP,36,87,1
+794,A,Bayes,22,87,0
+795,B,Neural Networks,13,71,0
+796,A,NLP,27,88,0
+797,A,Linear regression,24,72,0
+798,A,NLP,78,100,1
+799,B,Neural Networks,19,84,0
+800,B,NLP,23,75,0
+801,B,NLP,12,60,1
+802,A,Bayes,32,80,0
+803,A,Neural Networks,19,61,0
+804,A,Bayes,41,88,0
+805,A,Linear regression,18,59,0
+806,A,Linear regression,19,82,0
+807,B,Linear regression,32,100,1
+808,B,Linear regression,34,86,0
+809,A,NLP,29,76,0
+810,B,Bayes,18,80,1
+811,A,NLP,29,100,1
+812,A,NLP,4,63,0
+813,A,Bayes,18,95,0
+814,A,NLP,31,83,0
+815,B,Neural Networks,41,91,1
+816,A,Gaussian Process,17,62,0
+817,B,Neural Networks,25,89,1
+818,A,Linear regression,14,90,0
+819,B,Neural Networks,39,90,0
+820,A,NLP,18,61,0
+821,B,NLP,44,78,0
+822,B,NLP,17,39,0
+823,A,NLP,10,71,0
+824,A,Neural Networks,9,58,0
+825,B,Linear regression,16,89,1
+826,A,Linear regression,55,99,1
+827,A,NLP,24,84,1
+828,B,Linear regression,20,74,1
+829,A,Linear regression,6,72,0
+830,A,Bayes,24,79,0
+831,A,Gaussian Process,43,58,0
+832,B,Linear regression,18,73,1
+833,A,NLP,24,100,1
+834,A,Linear regression,4,58,0
+835,A,NLP,15,84,0
+836,A,Bayes,69,100,1
+837,B,Neural Networks,11,64,1
+838,A,Gaussian Process,15,51,0
+839,A,NLP,13,94,0
+840,A,NLP,22,89,0
+841,A,NLP,24,61,0
+842,B,NLP,22,77,1
+843,B,Linear regression,27,89,0
+844,A,NLP,56,87,0
+845,A,NLP,22,68,1
+846,A,Neural Networks,29,100,0
+847,A,NLP,18,85,1
+848,B,Neural Networks,17,85,1
+849,B,Linear regression,28,71,0
+850,A,Neural Networks,30,68,0
+851,A,NLP,11,77,0
+852,A,Neural Networks,29,78,1
+853,B,NLP,12,46,0
+854,B,Bayes,37,91,1
+855,B,Neural Networks,20,69,0
+856,B,Neural Networks,27,78,0
+857,A,Neural Networks,19,77,1
+858,A,Neural Networks,28,100,0
+859,B,Neural Networks,38,78,0
+860,B,Linear regression,25,55,1
+861,A,Bayes,40,100,0
+862,A,Linear regression,24,62,0
+863,A,Linear regression,11,68,0
+864,A,Bayes,16,63,0
+865,A,Neural Networks,24,91,0
+866,B,Neural Networks,30,72,0
+867,A,Neural Networks,10,87,0
+868,B,Bayes,9,97,1
+869,A,NLP,43,88,0
+870,B,Neural Networks,17,72,0
+871,A,NLP,43,95,1
+872,A,NLP,11,57,0
+873,B,Gaussian Process,34,87,0
+874,B,NLP,16,75,0
+875,B,Neural Networks,47,94,1
+876,A,Neural Networks,13,68,0
+877,B,Linear regression,14,54,0
+878,B,Linear regression,63,99,1
+879,A,Gaussian Process,45,100,0
+880,B,Linear regression,10,71,0
+881,A,NLP,21,89,1
+882,A,Linear regression,25,76,1
+883,B,Neural Networks,20,69,0
+884,A,Linear regression,16,80,0
+885,A,Linear regression,16,90,0
+886,B,Bayes,6,76,1
+887,B,Linear regression,2,41,0
+888,B,Neural Networks,15,88,1
+889,A,Neural Networks,24,74,0
+890,B,Linear regression,18,71,0
+891,A,Neural Networks,17,77,0
+892,A,Linear regression,24,75,0
+893,B,Neural Networks,19,65,0
+894,A,Neural Networks,28,97,0
+895,A,Neural Networks,13,70,1
+896,A,Bayes,19,69,0
+897,B,Bayes,13,61,0
+898,A,NLP,26,60,0
+899,A,NLP,13,66,0
+900,A,Neural Networks,11,76,0
+901,A,Neural Networks,17,83,0
+902,B,Bayes,10,69,0
+903,B,Bayes,49,90,0
+904,B,NLP,42,95,0
+905,A,Linear regression,19,71,0
+906,A,NLP,15,47,1
+907,B,Linear regression,24,86,1
+908,B,NLP,30,79,0
+909,A,NLP,42,75,0
+910,A,Linear regression,13,62,0
+911,A,Neural Networks,18,76,0
+912,B,Bayes,26,75,0
+913,A,Linear regression,9,66,0
+914,A,Neural Networks,21,56,1
+915,A,Bayes,21,77,0
+916,A,Bayes,31,51,0
+917,A,Bayes,32,80,0
+918,A,NLP,7,76,0
+919,B,Bayes,46,79,1
+920,B,Linear regression,18,89,0
+921,B,Linear regression,21,80,0
+922,B,Neural Networks,4,54,1
+923,B,NLP,50,92,0
+924,A,Linear regression,14,79,1
+925,B,NLP,14,61,0
+926,A,Linear regression,21,73,1
+927,A,Neural Networks,13,65,0
+928,B,Bayes,27,90,1
+929,B,Neural Networks,19,72,1
+930,A,Neural Networks,24,66,0
+931,A,NLP,42,75,1
+932,A,Neural Networks,13,68,0
+933,A,Neural Networks,45,80,0
+934,B,Linear regression,8,62,0
+935,A,Neural Networks,14,72,1
+936,B,NLP,18,65,1
+937,A,Linear regression,36,97,0
+938,B,Neural Networks,39,68,0
+939,B,Linear regression,21,93,0
+940,A,NLP,48,100,1
+941,A,Neural Networks,65,88,1
+942,A,NLP,23,84,0
+943,A,NLP,19,60,1
+944,B,Linear regression,18,80,0
+945,B,Gaussian Process,14,71,0
+946,B,Bayes,39,69,1
+947,A,Bayes,13,73,0
+948,A,NLP,65,100,0
+949,B,Linear regression,15,68,0
+950,A,Neural Networks,24,88,0
+951,A,Linear regression,26,91,0
+952,A,Neural Networks,14,66,0
+953,B,NLP,7,61,0
+954,A,Linear regression,39,59,0
+955,A,Linear regression,11,81,0
+956,A,Bayes,9,46,0
+957,B,Bayes,24,91,0
+958,B,Neural Networks,18,61,0
+959,A,NLP,38,89,1
+960,A,Neural Networks,25,92,1
+961,B,Neural Networks,26,68,0
+962,A,Bayes,40,97,0
+963,B,Neural Networks,8,62,0
+964,A,Neural Networks,14,71,0
+965,A,Bayes,14,48,0
+966,B,Linear regression,10,77,0
+967,B,Linear regression,22,75,1
+968,A,NLP,41,83,1
+969,A,NLP,5,75,0
+970,B,Linear regression,23,62,1
+971,B,NLP,19,66,1
+972,B,NLP,21,84,0
+973,A,Gaussian Process,14,58,0
+974,A,Neural Networks,39,83,1
+975,B,NLP,64,100,0
+976,B,Linear regression,34,96,0
+977,A,NLP,22,83,1
+978,B,Bayes,30,67,0
+979,A,Neural Networks,26,78,0
+980,B,Bayes,54,90,0
+981,A,Bayes,18,66,0
+982,B,NLP,13,77,1
+983,A,Neural Networks,13,81,1
+984,A,Linear regression,10,64,0
+985,A,Linear regression,8,46,0
+986,B,NLP,44,100,0
+987,B,NLP,49,100,1
+988,B,NLP,20,66,0
+989,B,Neural Networks,11,78,0
+990,A,NLP,27,91,1
+991,B,Neural Networks,24,87,0
+992,A,Gaussian Process,23,81,0
+993,A,Neural Networks,19,68,0
+994,A,Neural Networks,30,79,0
+995,B,NLP,28,80,1
+996,A,Neural Networks,23,66,0
+997,A,NLP,21,90,1
+998,A,Gaussian Process,34,87,0
+999,B,NLP,21,81,0
+1000,B,NLP,13,90,1
