@@ -1,0 +1,13 @@
+digraph {
+	Genotype [label=Genotype]
+	BMI [label=BMI]
+	Sex [label=Sex]
+	Age [label=Age]
+	Event [label="Event (CVD)"]
+	SurvivalTime [label="Survival Time (Age)"]
+	Genotype -> Event
+	BMI -> Event
+	Sex -> Event
+	Age -> SurvivalTime
+	Event -> SurvivalTime
+}
